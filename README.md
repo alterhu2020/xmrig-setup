@@ -1,0 +1,2 @@
+# xmrig-setup
+xmrig miner
